@@ -8,7 +8,6 @@
 <img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-30.gif" 
         alt="Picture" 
         style="display: block; margin: 0 auto" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinshea" alt="tinshea" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
