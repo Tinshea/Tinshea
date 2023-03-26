@@ -1,8 +1,5 @@
 <h1 align="center">I'm Malek Bouzarkouna, Welcome to my GitHub</h1>
 <h3 align="center">Currently a Student at Sorbonne universiy</h3>
-<img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-30.gif" 
-        alt="Picture" 
-        style="display: block; margin: 0 auto" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
