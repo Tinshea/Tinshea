@@ -1,8 +1,3 @@
-<img src="https://i.pinimg.com/originals/eb/9c/a8/eb9ca8b755820c26fe277ae2959db6c7.gif" 
-        alt="Picture" 
-        width="900" 
-        height="250" 
-        style="display: block; margin: 0 auto" />
 <h1 align="center">I'm Malek Bouzarkouna, Welcome to my GitHub</h1>
 <h3 align="center">Currently a Student at Sorbonne universiy</h3>
 <img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-30.gif" 
