@@ -1,5 +1,5 @@
 <h1 align="center">I'm Malek Bouzarkouna, Welcome to my GitHub</h1>
-<h3 align="center">Currently a Student at Sorbonne universiy</h3>
+<h3 align="center">Currently a Student at Sorbonne University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
