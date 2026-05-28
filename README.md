@@ -42,7 +42,5 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tinshea&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinshea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinshea&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/tinshea)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinshea&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tinshea)
